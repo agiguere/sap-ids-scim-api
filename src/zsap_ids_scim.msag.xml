@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>SAP Identity Directory Service SCIM API messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>An error occured while configuring the RFC destination.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>An error ocured while closing the RFC destination.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Create user failed, status &amp;1, reason &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Get user &amp;1 failed, status &amp;2, reason &amp;3.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Update user &amp;1 failed, status &amp;2, reason &amp;3.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Delete user &amp;1 failed, status &amp;2, reason &amp;3.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Searching users failed, status &amp;1, reason &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Send request failed.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Receiving response failed.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Create group failed, status &amp;1, reason &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Get group &amp;1 failed, status &amp;2, reason &amp;3.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Update group &amp;1 failed, status &amp;2, reason &amp;3.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Delete group &amp;1 failed, status &amp;2, reason &amp;3.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSAP_IDS_SCIM</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Searching groups failed, status &amp;1, reason &amp;2.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
